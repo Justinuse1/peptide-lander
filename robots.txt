@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justinuse1.github.io/peptide-lander/sitemap.xml
